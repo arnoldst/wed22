@@ -2,7 +2,7 @@ const app = require('express')()
 
 app.get('/', (req, res) => {
   //setTimeout(function() {
-    res.send("Hello from Codewind!");
+    res.send("Hello from Kabanero!");
   //}, 3000);
   
 });
